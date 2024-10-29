@@ -2,7 +2,8 @@
 This repository contains a simple yet functional Caesar Cipher program written in Python. The Caesar Cipher is a classic substitution cipher where each letter in the plaintext is shifted a fixed number of positions down or up the alphabet. This program allows users to encrypt or decrypt messages by entering the desired shift value.
 
 # Features
-Encryption and Decryption: The program can either encrypt or decrypt a given message based on a shift value specified by the user.Customizable Shift Value: The shift value determines the character displacement in the alphabet.
+Encryption and Decryption: The program can either encrypt or decrypt a given message based on a shift value specified by the user.
+Customizable Shift Value: The shift value determines the character displacement in the alphabet.
 Handles Uppercase and Lowercase Letters: The program correctly processes both uppercase and lowercase letters, preserving letter case.
 Character Ignorance: Non-alphabet characters (e.g., numbers, punctuation) remain unchanged.
 
